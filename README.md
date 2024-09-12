@@ -29,3 +29,12 @@ decision function, making SVMs adapt to different types of data and
 problems. For this project, a linear kernel is appropriate given the
 nature of the dataset. In addition, common kernels are provided,
 but it is possible to specify custom kernels.
+
+The model was evaluated with two scenarios:
+Scenario 1. With the UserID Feature <br/>
+Scenario 2. Without the UserID Feature <br/>
+
+|                      |  With userID |  Without userID |
+| :---                 |     :---:      |          ---: |
+| **Validation Accuracy**  | 0.7875    | 0.825   |
+| **Model Accuracy**       | 0.875       | 0.875     |
