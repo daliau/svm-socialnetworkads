@@ -38,3 +38,10 @@ Scenario 2. Without the UserID Feature <br/>
 | :---                 |     :---:      |          ---: |
 | **Validation Accuracy**  | 0.7875    | 0.825   |
 | **Model Accuracy**       | 0.875       | 0.875     |
+
+Confusion Matrix yielded the same result for both scenario:
+[[43 2]
+[ 8 27]]
+![Unknown](https://github.com/user-attachments/assets/5c444300-8a9d-4913-89de-614edddac438)
+
+The model achieved an accuracy of 87.5% on the test set indicating strong overall performance. The confusion matrix shows 43 true negatives, 27 true positives, 2 false positives, and 8 false negatives suggesting the model is more accurate at predicting non-purchases.
