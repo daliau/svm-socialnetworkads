@@ -15,7 +15,7 @@ classification, image classification, spam detection, handwriting identification
 anomaly detection, etc. SVMs classify data by finding an optimal line or
 hyperplane that maximizes the distance between each class in an N-dimensional
 space, making them particularly effective for classification problems of high-
-dimensional data and complex, nonlinear relationships.
+dimensional data and complex, nonlinear relationships.<br/>
 Advantages:<br/>
 • Effective in high dimensional spaces, SVMs perform well in cases
 where the number of dimensions is high, making them suitable for
